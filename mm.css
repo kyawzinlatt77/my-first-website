@@ -1,0 +1,62 @@
+body {
+    background-color: pink;
+}
+
+.anime {
+    background-color:aliceblue
+}
+
+span {
+    color: red;
+}
+
+#home {
+    text-align: center;
+    color: black;
+    background-image: url("images/japan.jpg");
+    background-position: center;
+    background-size: 100%;
+    height: 300px;
+    
+}
+
+#first {
+    background-image: url("images/One\ Piece.jpg");
+    background-position: center;
+    background-size: 100%;
+    height: 200px;
+    color: white;
+}
+
+#second {
+    background-image: url("images/Naruto.png");
+    background-position: center;
+    background-size: 100%;
+    height: 200px;
+}
+
+#last {
+ background-image: url("images/hunter.webp");
+    background-position: center;
+    background-size: 100%;
+    height: 200px;
+    color: white;
+}   
+
+#box {
+    border: 1px solid black;
+    height: 60px;
+    margin: 20px 20px 20px 20px;
+}
+
+#op {
+    color: red;
+}
+
+#na {
+    color: orange;
+}
+
+#hxh {
+    color: green;
+}
